@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 public class Devolucion {
 //enviar a la branca main
+=======
+class Devolucion {
+
+    //hola
+
+>>>>>>> 03d82bb87dc79bf26f5534c0fb90ac12138f1869
     public static float calculoBilletes (float x) {
         int v_dinero[] = {100, 50, 20, 10, 5};    
         float devolucion = 0;
